@@ -6,5 +6,4 @@
 
 ### Tech Stack:
 
-### Hobbies:
 
